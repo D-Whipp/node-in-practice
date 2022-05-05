@@ -1,0 +1,66 @@
+[
+  {
+    "id": "0",
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "price": "12.69",
+    "pages": "320",
+    "ages": "12 years and up"
+  },
+  {
+    "id": "1",
+    "title": "The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "price": "13.99",
+    "pages": "432",
+    "ages": "12 years and up"
+  },
+  {
+    "id": "2",
+    "title": "The Two Towers",
+    "author": "J. R. R. Tolkien",
+    "price": "29.34",
+    "pages": "352",
+    "ages": "14 years and up"
+  },
+  {
+    "id": "3",
+    "title": "The Return of the King",
+    "author": "J. R. R. Tolkien",
+    "price": "38.98",
+    "pages": "544",
+    "ages": "12 years and up"
+  },
+  {
+    "id": "4",
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "price": "15.39",
+    "pages": "528",
+    "ages": "11 years and up"
+  },
+  {
+    "id": "5",
+    "title": "Eldest",
+    "author": "Christopher Paolini",
+    "price": "12.44",
+    "pages": "704",
+    "ages": "9 years and up"
+  },
+  {
+    "id": "df3da98e-5e83-4ca6-9e8e-ea3385875af8",
+    "title": "Brisingr",
+    "author": "Christopher Paolini",
+    "price": "13.23",
+    "pages": "763",
+    "ages": "11years and up"
+  },
+  {
+    "id": "0e77f60c-d092-4c5a-90a5-42bb9fe0135f",
+    "title": "Inheritance",
+    "author": "Christopher Paolini",
+    "price": "16.25",
+    "pages": "860",
+    "ages": "10 years and up"
+  }
+]

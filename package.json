@@ -1,0 +1,27 @@
+{
+  "name": "in-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D-Whipp/node-in-practice.git"
+  },
+  "keywords": [],
+  "author": "David Whipple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D-Whipp/node-in-practice/issues"
+  },
+  "homepage": "https://github.com/D-Whipp/node-in-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
